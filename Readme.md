@@ -11,6 +11,8 @@ My Ninjatrader strategy bots. This is where I will be storing and sharing them.
 
 ## Lydia3
 
+My first working Bot.
+
 Long after Series of shorter timeframe SMAs above longer SMAs. EMA slope is up. Previously named "Winner Long". Treid the exact opposite with a short, but it didn't work.
 
 TODO: Add notes and performance details.
