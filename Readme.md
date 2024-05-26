@@ -1,12 +1,12 @@
 # Lydia's Trading Bots
 
-My Ninjatrader strategy bots. This is where I will be storing and sharing them.
+My Ninjatrader strategy bots. To view spreadsheet of my bots and their estimated historic performance, go to [My Spreadsheet](https://docs.google.com/spreadsheets/d/1Dzkn98K6t8bCk7rMwND_1eEDjMVcMsebt0tExMt18JU/edit?usp=sharing)
 
 ## Bot performance summary
 
 | Name        | Profit   | Max Drawdown |  % win  |
 | ---------- | ------ | ---------  | ----- |
-| Lydia3       |  xxx    |  xxxxxx      |   xxxx  |
+| Lydia3       |    |  xxxxxx      |   xxxx  |
 | Lydia10      |  xxx    |  xxxxxx      |   xxxx  |
 
 ## Lydia3
