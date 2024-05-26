@@ -2,6 +2,13 @@
 
 My Ninjatrader strategy bots. This is where I will be storing and sharing them.
 
+## Bot performance summary
+
+| Name        | Profit   | Max Drawdown |  % win  |
+| ---------- | ------ | ---------  | ----- |
+| Lydia3       |  xxx    |  xxxxxx      |   xxxx  |
+| Lydia10      |  xxx    |  xxxxxx      |   xxxx  |
+
 ## Lydia3
 
 Long after Series of shorter timeframe SMAs above longer SMAs. EMA slope is up. Previously named "Winner Long". Treid the exact opposite with a short, but it didn't work.
