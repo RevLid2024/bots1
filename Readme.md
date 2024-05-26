@@ -10,6 +10,6 @@ Long after Series of shorter timeframe SMAs above longer SMAs. EMA slope is up. 
 
 Long: RSI crosses above 34. One candle back was green. Now this one is too.
 
-
+More bots to come...
 
 
