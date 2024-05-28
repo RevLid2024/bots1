@@ -4,10 +4,13 @@ My Ninjatrader strategy bots. To view spreadsheet of my bots and their estimated
 
 ## Bot performance summary
 
-| Name        | Profit   | Max Drawdown |  % win  |
-| ---------- | ------ | ---------  | ----- |
-| Lydia3       |    |  xxxxxx      |   xxxx  |
-| Lydia10      |  xxx    |  xxxxxx      |   xxxx  |
+| Name         | Profit        | Max Drawdown |   Ratio  |  % Wins   |  Trades/day 
+| ----------   | ------        | ---------  | ----- | ----- |  ------- |
+| Lydia3       | 8950      |  975       |   9.18 |    9.18 |  1 |
+ Lydia8     | 8950       |  975       |   9.18  |  9.18 |   1
+| Lydia10      | 4600      |  700       |   6.57  |  9.18 |   1
+| Lydia12      | 4000      |  375       |   10.67  | 9.18 | .8
+ Lydia15       | 7362      |  1950      |   3.7  |   9.18 |  5
 
 ## Lydia3
 
@@ -15,14 +18,14 @@ My first working Bot.
 
 Long after Series of shorter timeframe SMAs above longer SMAs. EMA slope is up. Previously named "Winner Long". Treid the exact opposite with a short, but it didn't work.
 
-TODO: Add notes and performance details.
+## Lydia 8
+
+Same as Lydia3 with all the SMA lines drawn onto chart.
 
 ## Lydia10
 
 Long: RSI crosses above 34. One candle back was green. Now this one is too.
 
-TODO: Add notes and performance details.
+## Lydia15
 
-More bots to come...
-
-
+Long entry: Using the 1-minute chart, price crosses above the SMA20 and current candle is green. The advantage of using this bot to work from, is that it too 288 trades --  an average of almost 5 perday. 
