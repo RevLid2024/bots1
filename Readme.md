@@ -11,6 +11,7 @@ My Ninjatrader strategy bots. To view spreadsheet of my bots and their estimated
 | Lydia10      | 4600      |  700       |   6.57  |  9.18 |   1
 | Lydia12      | 4000      |  375       |   10.67  | 9.18 | .8
  Lydia15       | 7362      |  1950      |   3.7  |   9.18 |  5
+ Lydia18
 
 ## Lydia3
 
@@ -29,3 +30,8 @@ Long: RSI crosses above 34. One candle back was green. Now this one is too.
 ## Lydia15
 
 Long entry: Using the 1-minute chart, price crosses above the SMA20 and current candle is green. The advantage of using this bot to work from, is that it too 288 trades --  an average of almost 5 perday. 
+
+## Lydia18
+
+Improving Lydia10 by adding RSI as condition. 
+Long: RSI crosses above 34. One candle back was green. Now this one is too. ATR also needs to be above 2.
