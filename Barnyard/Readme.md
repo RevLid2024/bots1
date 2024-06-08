@@ -13,3 +13,4 @@ Long: RSI crosses above 34. One candle back was green. Now this one is too.
 ## Lydia15
 
 Long entry: Using the 1-minute chart, price crosses above the SMA20 and current candle is green. The advantage of using this bot to work from, is that it too 288 trades --  an average of almost 5 perday. 
+
